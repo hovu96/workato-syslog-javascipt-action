@@ -1,0 +1,23 @@
+{
+  "name": "workato-syslog-javascipt-action",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hovu96/workato-syslog-javascipt-action.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hovu96/workato-syslog-javascipt-action/issues"
+  },
+  "homepage": "https://github.com/hovu96/workato-syslog-javascipt-action#readme",
+  "dependencies": {
+    "syslog-pro": "^1.0.0"
+  }
+}
